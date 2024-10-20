@@ -1,4 +1,4 @@
-[![Header](https://github.com/Raizeen69/Raizeen69/blob/main/assets/image.jpg)](https://github.com/Raizeen69)
+[![Header](https://github.com/Raizeen69/Raizeen69/blob/master/assets/image.jpg)](https://github.com/Raizeen69)
 
 ## Hi, I'm a young C# .NET developer, currently training and planning a great career growth!
 
