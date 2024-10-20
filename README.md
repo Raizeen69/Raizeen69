@@ -15,16 +15,16 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raizeen69&theme=radical&hide_border=true&border_radius=7&locale=ru&date_format=%5BY%20%5DM%20j&card_width=514)](https://git.io/streak-stats)
 
 <a href="https://github.com/MaximProsin">
-  <img height=200 margin-right=7px margin-bottom= align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raizeen69&theme=radical" />
+  <img height=200 margin-right=7px align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raizeen69&theme=radical" />
 </a>
 <a href="https://github.com/MaximProsin">
-  <img height=200 margin-right=7px margin-bottom= align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raizeen69&theme=radical" />
+  <img height=200 margin-right=7px align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raizeen69&theme=radical" />
 </a>
 <a href="https://github.com/MaximProsin">
-  <img height=200 margin-right=7px margin-bottom= align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raizeen69&theme=radical" />
+  <img height=200 margin-right=7px align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raizeen69&theme=radical" />
 </a>
 <a href="https://github.com/MaximProsin">
-  <img height=200 margin-right=7px margin-bottom= align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raizeen69&theme=radical" />
+  <img height=200 margin-right=7px align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raizeen69&theme=radical" />
 </a>
 <a href="https://github.com/MaximProsin">
   <img height=200 margin-right=7px align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raizeen69&theme=radical" />
